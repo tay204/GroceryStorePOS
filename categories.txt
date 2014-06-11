@@ -1,0 +1,5 @@
+Fruits
+Vegetables
+Proteins
+Snacks
+Drinks

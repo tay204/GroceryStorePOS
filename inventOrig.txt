@@ -1,0 +1,150 @@
+Fruits
+Apples
+5.00
+25
+1lb of Apples
+Fruits
+Oranges
+4.00
+25
+1lb of Oranges
+Fruits
+Grapes
+3.50
+25
+1lb of Grapes
+Fruits
+Coconuts
+6.00
+15
+2 Large Coconuts
+Fruits
+Pineapple
+4.50
+20
+1 Pineappple
+Fruits
+Bananas
+1.25
+25
+1 Bushel of Bananas
+Vegetables
+Green Beans
+1.50
+25
+8oz Can of Green Beans
+Vegetables
+Potatoes
+3.75
+40
+5lb Bag of Potatoes
+Vegetables
+Corn
+2.00
+40
+8oz Can of Corn
+Vegetables
+Asparagus
+2.15
+25
+1lb of Asparagus
+Vegetables
+Carrots
+1.50
+25
+1lb Bag of Baby Carrots
+Vegetables
+Onions
+.99
+100
+1 Red Onion
+Proteins
+Chicken
+7.50
+15
+3lb Rotisserie Chicken
+Proteins
+Steak
+14.99
+15
+14oz Rib-Eye Steak
+Proteins
+Fish
+12.50
+15
+1lb Atlantic Salmon
+Proteins
+Pork
+9.00
+15
+1lb Pork Loin
+Proteins
+Lamb
+15.85
+10
+1lb Rack of Lamb
+Proteins
+Shrimp
+10.25
+25
+1lb of Jumbo Shrimp
+Snacks
+Crackers
+6.85
+50
+1 Box of Cheez-Its
+Snacks
+Cookies
+4.99
+50
+1 Box of Oreos
+Snacks
+Chips
+3.50
+50
+1 Bag of Lays Potato Chips
+Snacks
+Donuts
+1.50
+15
+1 Fresh Baked Donut
+Snacks
+Candy
+5.00
+50
+1lb Bag Assorted Candy
+Snacks
+Popsicles
+2.25
+50
+1 Box of Assorted Popsicles
+Drinks
+Coke
+5.50
+25
+12pk of Coca-Cola
+Drinks
+Pepsi
+5.50
+25
+12pk of Pepsi
+Drinks
+Milk
+4.00
+50
+1 Gallon of Milk
+Drinks
+Juice
+3.50
+50
+1/2 Gallon of Orange Juice
+Drinks
+Wine
+15.85
+20
+1 Bottle of Red Wine
+Drinks
+Beer
+18.99
+25
+1 Case of Coors Light

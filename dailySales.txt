@@ -1,0 +1,235 @@
+Sale at Tue Dec 10 17:19:24 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
+Sale at Tue Dec 10 20:55:32 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
+Sale at Tue Dec 10 20:58:24 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
+Sale at Tue Dec 10 20:59:05 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $222.11
+Sale at Tue Dec 10 21:00:19 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
+Sale at Wed Dec 11 14:44:54 EST 2013
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+SUBTOTAL: $31.49
+Sale at Wed Dec 11 15:13:39 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
+Sale at Wed Dec 11 15:17:16 EST 2013
+1 x Bananas @ $1.25
+1 x Apples @ $5.00
+1 x Grapes @ $3.50
+1 x Oranges @ $4.00
+2 x Pineapple @ $4.50
+1 x Coconuts @ $6.00
+1 x Asparagus @ $2.15
+1 x Carrots @ $1.50
+1 x Green Beans @ $1.50
+1 x Corn @ $2.00
+3 x Potatoes @ $3.75
+5 x Onions @ $.99
+1 x Chicken @ $7.50
+1 x Steak @ $14.99
+1 x Steak @ $14.99
+1 x Pork @ $9.00
+1 x Lamb @ $15.85
+1 x Fish @ $12.50
+2 x Shrimp @ $10.25
+1 x Crackers @ $6.85
+3 x Chips @ $3.50
+1 x Cookies @ $4.99
+2 x Donuts @ $1.50
+1 x Candy @ $5.00
+1 x Popsicles @ $2.25
+1 x Coke @ $5.50
+1 x Pepsi @ $5.50
+1 x Milk @ $4.00
+1 x Juice @ $3.50
+1 x Wine @ $15.85
+1 x Beer @ $18.99
+SUBTOTAL: $233.36
